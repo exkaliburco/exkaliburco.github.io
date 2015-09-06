@@ -31,7 +31,14 @@ body a{
 .logo{
 	float: left;
 	margin-top: 0.6em;
+	width: 40%;
 }
+
+.logo img
+{
+     max-width: 100%;
+}
+
 .logo a{
 	color: #303030;
 	font-weight: 200;
